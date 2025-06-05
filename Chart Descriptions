@@ -48,20 +48,4 @@ This project visualizes the Indian startup funding landscape using Power BI. It 
 - 1065 funded startups, 1223 investments  
 - Interactive filtering for years, cities, and verticals  
 
----
-
-## 📁 Files
-- `Power BI project.py`: Data cleaning script
-- Power BI dashboard file (PBIX) – available on request or added soon
-- Screenshot images of charts
-
----
-
-## 📌 Insights
-- Consumer Internet and Tech drive majority funding.
-- Flipkart leads in total funding.
-- 2017 marked the peak funding year.
-- Early-stage funding (seed/private equity) is dominant.
-
----
 
