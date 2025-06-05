@@ -1,0 +1,67 @@
+# 🚀 Startup Funding Analysis – Power BI Project
+
+This project visualizes the Indian startup funding landscape using Power BI. It involves cleaning raw CSV data using Python and transforming it into insightful visuals for decision-making.
+
+## 🔧 Technologies Used
+- **Python (Pandas)** – for data cleaning and preprocessing
+- **Power BI** – for data visualization
+- **CSV files** – input and output datasets
+
+---
+
+## 📊 Visualizations
+
+### 1. Line Chart – Total Funding INR by Year
+- Tracks funding trends from 2015 to 2020.
+- Peak in 2017 (₹380.25bn), lowest in 2020 (₹14.12bn).
+- Shows how startup funding evolved over time.
+
+### 2. Pie Chart – Number of Investments by Industry Vertical
+- **Consumer Internet (28.86%)** has the highest share.
+- Followed by **Technology** and **Ecommerce**.
+- Represents diversification across sectors.
+
+### 3. Stacked Column Chart – Avg & Latest Funding by Investment Type
+- Highlights **Private Equity** and **Single Venture** as top sources.
+- Compares past and recent funding levels.
+- Helps spot high-performing investment types.
+
+### 4. Decomposition Tree – Funding by Industry → City → Year
+- Deep-dive into where and when funds were raised.
+- Ecommerce in **Bangalore, 2017** dominates.
+- Supports root-cause and pattern exploration.
+
+### 5. Donut Chart – Number of Investments by Investment Type
+- **Private Equity (44.89%)** and **Seed Funding (42.68%)** are the most common.
+- Reflects funding behavior.
+
+### 6. Line & Column Chart – Total Funding vs Investment Count (Startups)
+- Combines metrics to highlight startups with both high funding and frequent investments.
+- **Flipkart**, **Snapdeal**, **Udaan** top the list.
+
+### 7. Clustered Bar Chart – Total Funding by Startup
+- Simple horizontal view for comparing startups.
+- Clear funding dominance shown by Flipkart.
+
+### 8. Dashboard – Executive Summary
+- ₹1.21 Trillion total funding  
+- 1065 funded startups, 1223 investments  
+- Interactive filtering for years, cities, and verticals  
+
+---
+
+## 📁 Files
+- `Power BI project.py`: Data cleaning script
+- Power BI dashboard file (PBIX) – available on request or added soon
+- Screenshot images of charts
+
+---
+
+## 📌 Insights
+- Consumer Internet and Tech drive majority funding.
+- Flipkart leads in total funding.
+- 2017 marked the peak funding year.
+- Early-stage funding (seed/private equity) is dominant.
+
+---
+
