@@ -1,13 +1,7 @@
-# 🚀 Startup Funding Analysis – Power BI Project
+# 🚀 Startup Funding Analysis 
 
 This project visualizes the Indian startup funding landscape using Power BI. It involves cleaning raw CSV data using Python and transforming it into insightful visuals for decision-making.
 
-## 🔧 Technologies Used
-- **Python (Pandas)** – for data cleaning and preprocessing
-- **Power BI** – for data visualization
-- **CSV files** – input and output datasets
-
----
 
 ## 📊 Visualizations
 
